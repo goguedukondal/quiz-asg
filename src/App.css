@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.question-container {
+  padding: 8px;
+  background-color: #808080;
+  border-radius: 12px;
+  margin: 50px;
+}
+
+.option-container {
+  background-color: #cec9b4;
+  border: 2px solid white;
+  margin: 4px;
+  text-align: center;
+  padding-left: 8px;
+  border-radius: 12px;
+
+}
+.question{
+  color: rgb(9, 9, 83);
+}
