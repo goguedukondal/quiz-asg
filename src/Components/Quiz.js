@@ -17,27 +17,27 @@ function Quiz({
   let dataset = [
     {
       question: "What is capital of Uttar Pradesh",
-      options: ["Rajasthan", "UttarPradesh", "Delhi", "Lucknow"],
+      options: ["Mumbai", "Hyderabad", "Delhi", "Lucknow"],
       anwser: "Lucknow"
     },
     {
       question: "What is capital of Karnataka",
-      options: ["Rajasthan", "UttarPradesh", "Honkong", "Bangalore"],
+      options: ["patna", "Jaipur", "Chennai", "Bangalore"],
       anwser: "Bangalore"
     },
     {
       question: "What is capital of Bihar",
-      options: ["Rajasthan", "UttarPradesh", "Delhi", "Patna"],
+      options: ["Banglore", "Patna", "Delhi", "Hyderabad"],
       anwser: "Patna"
     },
     {
       question: "What is capital of Rajashthan",
-      options: ["Rajasthan", "Jaipur", "Delhi", "Tamil-Nadu"],
+      options: ["Bhopal", "Jaipur", "Delhi", "Mumbai"],
       anwser: "Jaipur"
     },
     {
       question: "What is capital of Maharashtra",
-      options: ["Rajasthan", "UttarPradesh", "Mumbai", "Tamil-Nadu"],
+      options: ["Ganghinagar", "thiruvananthapuram", "Mumbai", "Amaravathi"],
       anwser: "Mumbai"
     }
   ];
